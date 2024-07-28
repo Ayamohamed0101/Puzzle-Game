@@ -1,4 +1,5 @@
 # 🧩 Puzzle Game
+![image](https://github.com/user-attachments/assets/8d101cc0-22b7-4ff6-8240-7fab018e98a4)
 
 ## Features
 
