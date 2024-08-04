@@ -1,5 +1,15 @@
 # 🧩 Puzzle Game
 ![image](https://github.com/user-attachments/assets/8d101cc0-22b7-4ff6-8240-7fab018e98a4)
+## Tools you maybe need for this project :
+
+### split image into 9 pieces:
+
+https://mysocialboutique.co/instagram-grid-maker/
+### resize image
+https://www.img2go.com/result#j=a8e0cff3-9c24-4086-958e-9ce4b25628be
+### sounds
+https://mixkit.co/free-sound-effects/click/
+
 
 ## Features
 
@@ -41,3 +51,4 @@
 - **Modular Codebase**: Clean, well-documented, and modular code to facilitate easy updates and feature additions.
 - **Open Source**: Available as an open-source project to encourage community contributions and improvements.
 - **Extensive Documentation**: Comprehensive documentation for developers to understand and contribute to the project.
+
